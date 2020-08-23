@@ -1,0 +1,12 @@
+C:\Users\15558\source\repos\study-单元测试\目标测试函数\bin\Debug\目标测试函数.dll
+C:\Users\15558\source\repos\study-单元测试\目标测试函数\bin\Debug\目标测试函数.pdb
+C:\Users\15558\source\repos\study-单元测试\目标测试函数\obj\Debug\目标测试函数.csprojAssemblyReference.cache
+C:\Users\15558\source\repos\study-单元测试\目标测试函数\obj\Debug\目标测试函数.csproj.CoreCompileInputs.cache
+C:\Users\15558\source\repos\study-单元测试\目标测试函数\obj\Debug\目标测试函数.dll
+C:\Users\15558\source\repos\study-单元测试\目标测试函数\obj\Debug\目标测试函数.pdb
+C:\Users\15558\code\Csharp\study-单元测试\目标测试函数\bin\Debug\目标测试函数.dll
+C:\Users\15558\code\Csharp\study-单元测试\目标测试函数\bin\Debug\目标测试函数.pdb
+C:\Users\15558\code\Csharp\study-单元测试\目标测试函数\obj\Debug\目标测试函数.csprojAssemblyReference.cache
+C:\Users\15558\code\Csharp\study-单元测试\目标测试函数\obj\Debug\目标测试函数.csproj.CoreCompileInputs.cache
+C:\Users\15558\code\Csharp\study-单元测试\目标测试函数\obj\Debug\目标测试函数.dll
+C:\Users\15558\code\Csharp\study-单元测试\目标测试函数\obj\Debug\目标测试函数.pdb

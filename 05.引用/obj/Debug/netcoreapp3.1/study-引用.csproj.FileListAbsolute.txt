@@ -1,0 +1,13 @@
+C:\Users\15558\code\Csharp\study-引用\obj\Debug\netcoreapp3.1\study-引用.csprojAssemblyReference.cache
+C:\Users\15558\code\Csharp\study-引用\obj\Debug\netcoreapp3.1\study-引用.AssemblyInfoInputs.cache
+C:\Users\15558\code\Csharp\study-引用\obj\Debug\netcoreapp3.1\study-引用.AssemblyInfo.cs
+C:\Users\15558\code\Csharp\study-引用\obj\Debug\netcoreapp3.1\study-引用.csproj.CoreCompileInputs.cache
+C:\Users\15558\code\Csharp\study-引用\bin\Debug\netcoreapp3.1\study-引用.exe
+C:\Users\15558\code\Csharp\study-引用\bin\Debug\netcoreapp3.1\study-引用.deps.json
+C:\Users\15558\code\Csharp\study-引用\bin\Debug\netcoreapp3.1\study-引用.runtimeconfig.json
+C:\Users\15558\code\Csharp\study-引用\bin\Debug\netcoreapp3.1\study-引用.runtimeconfig.dev.json
+C:\Users\15558\code\Csharp\study-引用\bin\Debug\netcoreapp3.1\study-引用.dll
+C:\Users\15558\code\Csharp\study-引用\bin\Debug\netcoreapp3.1\study-引用.pdb
+C:\Users\15558\code\Csharp\study-引用\obj\Debug\netcoreapp3.1\study-引用.dll
+C:\Users\15558\code\Csharp\study-引用\obj\Debug\netcoreapp3.1\study-引用.pdb
+C:\Users\15558\code\Csharp\study-引用\obj\Debug\netcoreapp3.1\study-引用.genruntimeconfig.cache

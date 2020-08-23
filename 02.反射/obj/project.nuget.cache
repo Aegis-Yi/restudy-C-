@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rlP3a42c+cbwlyzWZ5E4Q08j8kfZkQcUAS5ooRAHTan6POmOqQATvGGYtFg1oIL7JS65FXFwuL3Fa8BDQEE5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\15558\\code\\Csharp\\stduy-反射\\stduy-反射.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\15558\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "C:\\Users\\15558\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}
