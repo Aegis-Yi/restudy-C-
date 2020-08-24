@@ -1,0 +1,13 @@
+C:\Users\15558\Vscode\restudy-Csharp\08.多线程\obj\Debug\netcoreapp3.1\08.多线程.csprojAssemblyReference.cache
+C:\Users\15558\Vscode\restudy-Csharp\08.多线程\obj\Debug\netcoreapp3.1\08.多线程.AssemblyInfoInputs.cache
+C:\Users\15558\Vscode\restudy-Csharp\08.多线程\obj\Debug\netcoreapp3.1\08.多线程.AssemblyInfo.cs
+C:\Users\15558\Vscode\restudy-Csharp\08.多线程\obj\Debug\netcoreapp3.1\08.多线程.csproj.CoreCompileInputs.cache
+C:\Users\15558\Vscode\restudy-Csharp\08.多线程\bin\Debug\netcoreapp3.1\08.多线程.exe
+C:\Users\15558\Vscode\restudy-Csharp\08.多线程\bin\Debug\netcoreapp3.1\08.多线程.deps.json
+C:\Users\15558\Vscode\restudy-Csharp\08.多线程\bin\Debug\netcoreapp3.1\08.多线程.runtimeconfig.json
+C:\Users\15558\Vscode\restudy-Csharp\08.多线程\bin\Debug\netcoreapp3.1\08.多线程.runtimeconfig.dev.json
+C:\Users\15558\Vscode\restudy-Csharp\08.多线程\bin\Debug\netcoreapp3.1\08.多线程.dll
+C:\Users\15558\Vscode\restudy-Csharp\08.多线程\bin\Debug\netcoreapp3.1\08.多线程.pdb
+C:\Users\15558\Vscode\restudy-Csharp\08.多线程\obj\Debug\netcoreapp3.1\08.多线程.dll
+C:\Users\15558\Vscode\restudy-Csharp\08.多线程\obj\Debug\netcoreapp3.1\08.多线程.pdb
+C:\Users\15558\Vscode\restudy-Csharp\08.多线程\obj\Debug\netcoreapp3.1\08.多线程.genruntimeconfig.cache
