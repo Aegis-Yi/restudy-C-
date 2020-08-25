@@ -1,0 +1,13 @@
+C:\Users\15558\Vscode\restudy-Csharp\09.接口隔离\obj\Debug\netcoreapp3.1\09.接口隔离.csprojAssemblyReference.cache
+C:\Users\15558\Vscode\restudy-Csharp\09.接口隔离\obj\Debug\netcoreapp3.1\09.接口隔离.AssemblyInfoInputs.cache
+C:\Users\15558\Vscode\restudy-Csharp\09.接口隔离\obj\Debug\netcoreapp3.1\09.接口隔离.AssemblyInfo.cs
+C:\Users\15558\Vscode\restudy-Csharp\09.接口隔离\obj\Debug\netcoreapp3.1\09.接口隔离.csproj.CoreCompileInputs.cache
+C:\Users\15558\Vscode\restudy-Csharp\09.接口隔离\bin\Debug\netcoreapp3.1\09.接口隔离.exe
+C:\Users\15558\Vscode\restudy-Csharp\09.接口隔离\bin\Debug\netcoreapp3.1\09.接口隔离.deps.json
+C:\Users\15558\Vscode\restudy-Csharp\09.接口隔离\bin\Debug\netcoreapp3.1\09.接口隔离.runtimeconfig.json
+C:\Users\15558\Vscode\restudy-Csharp\09.接口隔离\bin\Debug\netcoreapp3.1\09.接口隔离.runtimeconfig.dev.json
+C:\Users\15558\Vscode\restudy-Csharp\09.接口隔离\bin\Debug\netcoreapp3.1\09.接口隔离.dll
+C:\Users\15558\Vscode\restudy-Csharp\09.接口隔离\bin\Debug\netcoreapp3.1\09.接口隔离.pdb
+C:\Users\15558\Vscode\restudy-Csharp\09.接口隔离\obj\Debug\netcoreapp3.1\09.接口隔离.dll
+C:\Users\15558\Vscode\restudy-Csharp\09.接口隔离\obj\Debug\netcoreapp3.1\09.接口隔离.pdb
+C:\Users\15558\Vscode\restudy-Csharp\09.接口隔离\obj\Debug\netcoreapp3.1\09.接口隔离.genruntimeconfig.cache
