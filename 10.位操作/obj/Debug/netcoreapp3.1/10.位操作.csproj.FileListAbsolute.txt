@@ -1,0 +1,13 @@
+C:\Users\15558\Vscode\restudy-Csharp\10.位操作\bin\Debug\netcoreapp3.1\10.位操作.exe
+C:\Users\15558\Vscode\restudy-Csharp\10.位操作\bin\Debug\netcoreapp3.1\10.位操作.deps.json
+C:\Users\15558\Vscode\restudy-Csharp\10.位操作\bin\Debug\netcoreapp3.1\10.位操作.runtimeconfig.json
+C:\Users\15558\Vscode\restudy-Csharp\10.位操作\bin\Debug\netcoreapp3.1\10.位操作.runtimeconfig.dev.json
+C:\Users\15558\Vscode\restudy-Csharp\10.位操作\bin\Debug\netcoreapp3.1\10.位操作.dll
+C:\Users\15558\Vscode\restudy-Csharp\10.位操作\bin\Debug\netcoreapp3.1\10.位操作.pdb
+C:\Users\15558\Vscode\restudy-Csharp\10.位操作\obj\Debug\netcoreapp3.1\10.位操作.csprojAssemblyReference.cache
+C:\Users\15558\Vscode\restudy-Csharp\10.位操作\obj\Debug\netcoreapp3.1\10.位操作.AssemblyInfoInputs.cache
+C:\Users\15558\Vscode\restudy-Csharp\10.位操作\obj\Debug\netcoreapp3.1\10.位操作.AssemblyInfo.cs
+C:\Users\15558\Vscode\restudy-Csharp\10.位操作\obj\Debug\netcoreapp3.1\10.位操作.csproj.CoreCompileInputs.cache
+C:\Users\15558\Vscode\restudy-Csharp\10.位操作\obj\Debug\netcoreapp3.1\10.位操作.dll
+C:\Users\15558\Vscode\restudy-Csharp\10.位操作\obj\Debug\netcoreapp3.1\10.位操作.pdb
+C:\Users\15558\Vscode\restudy-Csharp\10.位操作\obj\Debug\netcoreapp3.1\10.位操作.genruntimeconfig.cache
